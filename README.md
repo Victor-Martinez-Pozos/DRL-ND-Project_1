@@ -38,5 +38,9 @@ Opne a jupyter notebook and open the Navigation.ipynb to train or test the agent
 
 2. For testing skip the training section inside the notebook
 
+## License
+
+GNU General Public License v3.0
+
 
 
